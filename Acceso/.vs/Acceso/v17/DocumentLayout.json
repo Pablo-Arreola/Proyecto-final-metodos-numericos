@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Parre\\source\\repos\\Acceso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|c:\\users\\parre\\source\\repos\\acceso\\acceso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|solutionrelative:acceso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|c:\\users\\parre\\source\\repos\\acceso\\acceso\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|solutionrelative:acceso\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|c:\\users\\parre\\source\\repos\\acceso\\acceso\\registro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F937170B-EB1C-4A40-8A20-DF4361B375F4}|Acceso\\Acceso.csproj|solutionrelative:acceso\\registro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Registro.Designer.cs",
+              "RelativeDocumentMoniker": "Acceso\\Registro.Designer.cs",
+              "ToolTip": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Registro.Designer.cs",
+              "RelativeToolTip": "Acceso\\Registro.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:56:47.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Registro.cs",
+              "RelativeDocumentMoniker": "Acceso\\Registro.cs",
+              "ToolTip": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Acceso\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:58:25.506Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Form1.cs",
+              "RelativeDocumentMoniker": "Acceso\\Form1.cs",
+              "ToolTip": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Acceso\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:50:40.547Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
