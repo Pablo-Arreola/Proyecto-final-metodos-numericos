@@ -132,6 +132,7 @@
             text1.Name = "text1";
             text1.Size = new Size(115, 23);
             text1.TabIndex = 7;
+            text1.TextAlign = HorizontalAlignment.Center;
             // 
             // text2
             // 
@@ -140,6 +141,7 @@
             text2.Name = "text2";
             text2.Size = new Size(115, 23);
             text2.TabIndex = 8;
+            text2.TextAlign = HorizontalAlignment.Center;
             // 
             // Registro
             // 

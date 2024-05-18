@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Acceso.csproj",
+      "projectUniqueName": "C:\\Users\\Parre\\Downloads\\Proyecto Final Met Num\\Proyecto-final-metodos-numericos\\Acceso\\Acceso\\Acceso.csproj",
       "projectName": "Acceso",
-      "projectPath": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\Acceso.csproj",
+      "projectPath": "C:\\Users\\Parre\\Downloads\\Proyecto Final Met Num\\Proyecto-final-metodos-numericos\\Acceso\\Acceso\\Acceso.csproj",
       "packagesPath": "C:\\Users\\Parre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Parre\\source\\repos\\Acceso\\Acceso\\obj\\",
+      "outputPath": "C:\\Users\\Parre\\Downloads\\Proyecto Final Met Num\\Proyecto-final-metodos-numericos\\Acceso\\Acceso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Parre\\AppData\\Roaming\\NuGet\\NuGet.Config",

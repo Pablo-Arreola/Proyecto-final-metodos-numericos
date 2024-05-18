@@ -162,6 +162,7 @@
             text3.Name = "text3";
             text3.Size = new Size(115, 23);
             text3.TabIndex = 8;
+            text3.TextAlign = HorizontalAlignment.Center;
             // 
             // text4
             // 
@@ -170,6 +171,7 @@
             text4.Name = "text4";
             text4.Size = new Size(115, 23);
             text4.TabIndex = 9;
+            text4.TextAlign = HorizontalAlignment.Center;
             // 
             // Form1
             // 
